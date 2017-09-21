@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.diagonal_difference;
+package com.ebt.hackerrank.algorithms.warmup.diagonal_difference;
 
 import java.util.Scanner;
 

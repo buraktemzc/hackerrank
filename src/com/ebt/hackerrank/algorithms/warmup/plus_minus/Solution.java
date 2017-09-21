@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.plus_minus;
+package com.ebt.hackerrank.algorithms.warmup.plus_minus;
 
 import java.util.Scanner;
 

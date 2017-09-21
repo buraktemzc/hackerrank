@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.mini_max_sum;
+package com.ebt.hackerrank.algorithms.warmup.mini_max_sum;
 
 import java.util.Scanner;
 

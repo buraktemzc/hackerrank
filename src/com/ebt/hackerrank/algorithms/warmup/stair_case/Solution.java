@@ -1,18 +1,18 @@
-package com.ebt.hackerrank.algorithms.a_very_big_sum;
+package com.ebt.hackerrank.algorithms.warmup.stair_case;
 
 import java.util.Scanner;
 
 public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-
 		int n = in.nextInt();
-		long sum = 0;
+		int limit = n - 1;
 		for (int i = 0; i < n; i++) {
-			sum += in.nextLong();
+			for (int j = 0; j < n; j++) {
+				System.out.print(j < limit ? " " : "#");
+			}
+			limit--;
+			System.out.println();
 		}
-		System.out.println(sum);
-
-		in.close();
 	}
 }

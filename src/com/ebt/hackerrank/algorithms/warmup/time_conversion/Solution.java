@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.time_conversion;
+package com.ebt.hackerrank.algorithms.warmup.time_conversion;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.simple_array_sum;
+package com.ebt.hackerrank.algorithms.warmup.simple_array_sum;
 
 import java.util.Scanner;
 

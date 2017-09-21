@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.birthday_cake_candles;
+package com.ebt.hackerrank.algorithms.warmup.birthday_cake_candles;
 
 import java.util.Scanner;
 

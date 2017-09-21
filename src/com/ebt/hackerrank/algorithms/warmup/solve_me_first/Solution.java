@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.solve_me_first;
+package com.ebt.hackerrank.algorithms.warmup.solve_me_first;
 
 import java.util.Scanner;
 

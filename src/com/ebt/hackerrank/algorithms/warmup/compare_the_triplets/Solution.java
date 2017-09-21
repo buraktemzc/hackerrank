@@ -1,4 +1,4 @@
-package com.ebt.hackerrank.algorithms.compare_the_triplets;
+package com.ebt.hackerrank.algorithms.warmup.compare_the_triplets;
 
 import java.util.Scanner;
 
